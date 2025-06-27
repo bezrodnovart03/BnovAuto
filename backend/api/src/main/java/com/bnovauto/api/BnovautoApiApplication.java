@@ -1,0 +1,13 @@
+package com.bnovauto.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BnovautoApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BnovautoApiApplication.class, args);
+	}
+
+}
